@@ -8,6 +8,15 @@
 
 ![alt text](https://raw.githubusercontent.com/Sushil3125/Student-Detail-Panel/master/Screenshot_readme/Capture.JPG)
 
+##Operation That can be performed:
+Following operations can be performed with the help of buttons provided:
+* Add
+* Edit
+* Save
+* Delete
+* Display
+* 
+All this operation is done to manipulate data in the primary dummy Database.
 
 ## Installation
 
@@ -51,7 +60,7 @@ This program is License free.
 
 ## Contact me
 
-*LinkedIn: [a link](https://www.linkedin.com/in/sushil-dhakal-5ab5a621a)
-*Github: [a link](https://www.github.com/sushil3125)
+* LinkedIn: [LinkedIn](https://www.linkedin.com/in/sushil-dhakal-5ab5a621a)
+* Github: [Github](https://www.github.com/sushil3125)
 
 
