@@ -8,7 +8,7 @@
 
 ![alt text](https://raw.githubusercontent.com/Sushil3125/Student-Detail-Panel/master/Screenshot_readme/Capture.JPG)
 
-##Operation That can be performed:
+## Operation That can be performed:
 Following operations can be performed with the help of buttons provided:
 * Add
 * Edit
