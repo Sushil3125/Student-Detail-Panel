@@ -15,7 +15,7 @@ Following operations can be performed with the help of buttons provided:
 * Save
 * Delete
 * Display
-* 
+
 All this operation is done to manipulate data in the primary dummy Database.
 
 ## Installation
